@@ -1,0 +1,22 @@
+{
+  "name": "productsserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productsServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node productsServer.js"
+  },
+  "keywords": [
+    "node ",
+    "build"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "express": "^4.18.2",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
